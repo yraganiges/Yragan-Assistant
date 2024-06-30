@@ -1,0 +1,21 @@
+{
+    "UserName": "yraganiga",
+    "UserCountry": "ru",
+    "AssistantName": "Yragan",
+    "status_facts": true,
+    "show_background": true,
+    "delay_write_text": 0.02,
+    "VoiceActing_Speed": 220,
+    "max_limit_lenght_request": 300,
+    "num_for_indentation": 7,
+    "max_time_wait_voice_request": 3,
+
+    "paths": {
+        "icon": "assets\\icons\\YA_logo_2.ico",
+        "database": "assets\\data\\app_data\\data.db",
+        "settings": "data\\app_data\\settings\\",
+        "dictionary": "dictionary.txt",
+        "sound_click": "audio\\sound_click.mp3"
+    }
+
+}
